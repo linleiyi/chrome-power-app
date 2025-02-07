@@ -16,3 +16,4 @@ indent_style = space
 
 [*.md]
 trim_trailing_whitespace = false
+#谢，，多多测式一下
